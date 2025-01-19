@@ -7,8 +7,24 @@ Bu WhatsApp uygulaması, Dart programlama dili  kullanılarak geliştirilmiştir
 Uygulamanın arka planında sqlife  kullanılarak mesajlaşma sağlanmaktadır. Kullanıcılar, kayıt olabilir, sohbet başlatabilir ve medya paylaşımı yapabilir.
 
 ### ek özellik
-#### hesabım bölümünde
- Google, Facebook gibi sosyal medya giriş desteği entegre edilebilir.
+#### Ayarlar Kısmı 
+##### 1. Profil Ayarları
+Profil Fotoğrafı Değiştirme: Kullanıcı, galerisinden veya kamerayla çekerek yeni bir profil fotoğrafı ekleyebilir.
+İsim Güncelleme: Kullanıcı adını değiştirebilir.
+Durum (Bio) Yazısı: Kullanıcı kendine özel bir durum (örneğin: "Meşgul", "Müsait", "Çalışıyorum") yazabilir.
+##### 2. Gizlilik Ayarları
+Son Görülme ve Çevrimiçi Durumu: Kullanıcı son görülmesini herkes, sadece kişiler, belirli kişiler veya hiç kimse olarak ayarlayabilir.
+Okundu Bilgisi (Mavi Tikler): Kullanıcı, okundu bilgilerini açıp kapatabilir.
+Durum (Story) Görünürlüğü: Paylaşılan durumları kimlerin görebileceği seçilebilir.
+Engellenen Kişiler: Kullanıcı, engellediği kişilerin listesini görebilir ve düzenleyebilir.
+##### 3. Tema ve Görünüm Ayarları
+Koyu (Dark) ve Açık (Light) Tema: Kullanıcı, tercihe göre koyu veya açık modu seçebilir.
+Duvar Kağıdı Değiştirme: Sohbet arka planını özelleştirme seçeneği.
+Yazı Tipi Boyutu: Mesajların yazı boyutunu büyütme veya küçültme.
+##### 4. Hesap Ayarları
+Numara Değiştirme: Kullanıcı, WhatsApp hesabına bağlı telefon numarasını değiştirebilir.
+Hesabı Silme: Kullanıcı, tüm verilerini kalıcı olarak silerek hesabını kapatabilir.
+ ###### Google, Facebook gibi sosyal medya giriş desteği entegre edilebilir.
 ![hesabım ](https://github.com/user-attachments/assets/05bce5aa-6883-498f-a2e6-b6aa695434a7)
 
 #### kişi ekleme 
