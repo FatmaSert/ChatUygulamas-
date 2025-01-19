@@ -46,5 +46,7 @@ Mesaj Gönderme ve Alma
 Metin mesajı, emoji, GIF ve çıkartmalar gönderilebilir.
 Kullanıcılar resim, video, ses kaydı ve belge paylaşabilir.
 ![mesaj ](https://github.com/user-attachments/assets/8c837b62-11bb-48eb-bee3-251fa73801e4)
+#### Sonuç
+Bu WhatsApp uygulaması, modern mesajlaşma deneyimini en iyi şekilde sunmak için geliştirilmiştir. Hızlı ve güvenli bir altyapıya sahiptir ve kullanıcı dostu arayüzü sayesinde herkesin kolayca kullanabileceği bir sistem sunmaktadır.
 
 
