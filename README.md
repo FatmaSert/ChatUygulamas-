@@ -1,6 +1,8 @@
 # ChatUygulaması
 ## uygulamaya ulaşmak için tıklayınız 
 https://drive.google.com/file/d/10jZjCdbfauaN7OHn8NWBXHlEiIeE1CMw/view?usp=sharing
+## YouTube izlemek için 
+https://youtu.be/q5u_BcrKJRk?si=ZmEzsErnZVpiQvtC
 ## özellikler 
 Bu WhatsApp uygulaması, Dart programlama dili  kullanılarak geliştirilmiştir. Kullanıcı dostu bir arayüz ve hızlı performans sağlayan bu uygulama, modern mesajlaşma uygulamalarında bulunan temel özellikleri içermektedir.
 
